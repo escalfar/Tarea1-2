@@ -47,5 +47,5 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
-
+        //a ver ahora
 </RelativeLayout>
